@@ -5,13 +5,7 @@
 
 - 🌱 I’m currently learning **Next js API routes**
 
-- 👯 I’m looking to collaborate on [Figma wireframe designs](https://www.figma.com/)
-
-- 🤝 I’m looking for help with [ChatGPT prompt API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes)
-
 - 👨‍💻 Projects & experiences [vaughnantonio.vercel.app](vaughnantonio.vercel.app)
-
-- ⚡ Fun fact [https://asianc.sh/](https://asianc.sh/)
 
 - 💬 Ask me about **gym or cars**
 
