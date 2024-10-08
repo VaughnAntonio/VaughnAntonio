@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Vaughn</h1>
 <h3 align="center">Creative Developer & Designer</h3>
 
-- 🔭 I’m currently working on [Chat GPT Prompt site](https://github.com/VaughnAntonio/openshare)
+- 🔭 I’m currently working on [Web Scrapper]([https://github.com/VaughnAntonio/openshare](https://realpython.com/web-scraping-with-scrapy-and-mongodb/#inspect-the-source-that-you-want-to-scrape))
 
-- 🌱 I’m currently learning **Next js API routes**
+- 🌱 I’m currently learning **Python Web scrapping with scrapy & MongoDB **
 
 - 👨‍💻 Projects & experiences [vaughnantonio.vercel.app](vaughnantonio.vercel.app)
 
