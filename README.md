@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** Python and LLM's **
 
-- 👨‍💻 Projects & experiences [vaughnalec.vercel.app](vaughnalec.vercel.app)
+- 👨‍💻 Projects & experiences [website](vaughnalec.vercel.app)
 
 - 💬 Ask me about **gym or cars & motorcylces**
 
